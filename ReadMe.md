@@ -23,7 +23,7 @@ This project is licensed under:
 MIT
 
 ### Issues:
-I was a little worried with this homework, as I struggled with the previous homework deploying using MongoAtlas and Heroku. However I found this assignment very helpful in feeling more comfortable with react.
+I was a little worried with this homework, as I struggled with the previous homework deploying using MongoAtlas and Heroku. However I found this assignment very helpful in feeling more comfortable with react. I was able to successfully deploy using github pages, though this took sometime to debug! 
 
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/DevinPawline) or contact 
