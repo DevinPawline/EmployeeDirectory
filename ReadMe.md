@@ -23,6 +23,7 @@ This project is licensed under:
 MIT
 
 ### Issues:
+I was a little worried with this homework, as I struggled with the previous homework deploying using MongoAtlas and Heroku. 
 
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/DevinPawline) or contact 
