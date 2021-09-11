@@ -13,3 +13,7 @@ In order to install the necessary dependencies, open the console and run the fol
 ```npm install axios, npm install bootstrap```
 
 ### Video:
+
+### License:
+This project is licensed under:
+MIT
