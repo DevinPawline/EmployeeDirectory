@@ -1,14 +1,12 @@
 import React from "react";
+import Directory from "./components/Directory.js";
 import "./App.css";
-import Header from "./components/Header";
-import EmployeesContainer from "./components";
 
 const App = () => {
   return (
-    <>
-      <Header />
-      <EmployeesContainer />
-    </>
+    <div className="App">
+      <Directory />
+    </div>
   );
 };
 
