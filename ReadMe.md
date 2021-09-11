@@ -7,3 +7,7 @@ Using React, and Github pages deploy an application that pulls information from 
 * [License](#license)
 * [Issues/Comments](#issues)
 * [Questions](#questions)
+
+### Installation:
+In order to install the necessary dependencies, open the console and run the following:
+```npm install axios, npm install bootstrap```
