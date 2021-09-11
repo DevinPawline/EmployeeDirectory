@@ -20,3 +20,8 @@ MIT
 
 ### Issues:
 
+### Questions:
+If you have any questions contact me on [GitHub](https://github.com/DevinPawline) or contact 
+Devin Pawline at pawlinedevin@gmail.com
+![picture](https://github.com/DevinPawline.png?size=80)
+    
