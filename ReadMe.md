@@ -17,3 +17,6 @@ In order to install the necessary dependencies, open the console and run the fol
 ### License:
 This project is licensed under:
 MIT
+
+### Issues:
+
