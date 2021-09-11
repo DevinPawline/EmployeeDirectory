@@ -14,6 +14,10 @@ In order to install the necessary dependencies, open the console and run the fol
 
 ### Video:
 
+
+https://user-images.githubusercontent.com/79121046/132956698-b5fb1dc3-9ac0-4161-a039-753ad6fa5e56.mp4
+
+
 ### License:
 This project is licensed under:
 MIT
